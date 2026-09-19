@@ -6,7 +6,7 @@
 
 Construo sistemas empresariais, produtos SaaS e integrações com foco em arquitetura, confiabilidade e evolução contínua.
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/mikeecruz)
+**TRIAD • Website** → [`triadcode.com.br`](https://triadcode.com.br)
 
 </div>
 
@@ -76,7 +76,7 @@ Meu trabalho é guiado por alguns princípios:
 
 ## Contato
 
-Para conversar sobre desenvolvimento de sistemas, arquitetura, integrações ou a TRIAD, entre em contato comigo pelo [GitHub](https://github.com/mikeecruz).
+Para conversar sobre desenvolvimento de sistemas, arquitetura, integrações ou a TRIAD, entre em contato pelo site da [TRIAD](https://triadcode.com.br).
 
 ---
 
